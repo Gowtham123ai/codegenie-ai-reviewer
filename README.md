@@ -5,12 +5,7 @@
 [![AI](https://img.shields.io/badge/AI-Gemini-orange)](https://ai.google.dev/)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 
-A full-stack application that provides automated, AI-driven code reviews using Google's Gemini AI. Submit your code and receive professional, detailed feedback in seconds!
-
-Live website link: [AI-Powered Code Reviewer](https://ai-code-reviewer-villwin007.netlify.app/)
-
-<img width="1919" height="916" alt="image" src="https://github.com/user-attachments/assets/44b0b235-d23a-4612-ac13-1a822ca3349b" />
-
+A
 
 ## ✨ Features
 
@@ -342,7 +337,8 @@ For questions, support, or contributions, please open an issue or contact [s.dha
 *"Better code through AI-powered insights"*
 
 </div>
-#   c o d e g e n i e - a i - r e v i e w e r  
+#   c o d e g e n i e - a i - r e v i e w e r 
+ 
  # codegenie-ai-reviewer 
 # codegenie-ai-reviewer 
 # Webhook Test 
